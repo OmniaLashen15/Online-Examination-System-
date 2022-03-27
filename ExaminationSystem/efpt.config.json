@@ -1,0 +1,279 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "Online_Examination_SystemContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": "Context3",
+   "OutputPath": "Entities3",
+   "ProjectRootNamespace": "ExaminationSystem",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[deleteCourse_Topic]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[deleteCourse]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[deleteDepartment]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[deleteDept_Course]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[deleteDept_Ins]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[deleteIns_Course]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[deleteInstructor]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[deleteQuestion]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[deleteStudent]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[deleteTopic]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[Exam_Correction]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[Generate_10_Q]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[Generate_Exam]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[get_Student_Answers]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[getCourseTopics]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[getDeptStudents]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[getExamQuestions]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[getInstructorCourses]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[getstudentGrade]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[getStudExam]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[ins_Instructor]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[insertCourse_Topic]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[insertCourse]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[insertDepartment]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[insertDept_Course]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[insertDept_Ins]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[insertIns_Course]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[insertQuestion]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[insertStudent]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[insertTopic]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[proc_exam]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectAllCourse_Topic]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectAllCourse]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectAllDepartment]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectAllDept_Course]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectAllIns_Course]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectAllInsructor]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectAllQuestion]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectAllStudent]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectAllTopic]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectCourse_Topic]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectCourse]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectDepartment]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectDept_Course]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectDept_Ins]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectIns_Course]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectInsructor]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectQuestion]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectStudent]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[selectTopic]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[set_Student_Answers]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[updateCourse_Topic]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[updateCourse]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[updateDepartment]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[updateDept_Course]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[updateDept_Ins]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[updateIns_Course]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[updateInstructor]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[updateQuestion]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[updateStudent]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[updateTopic]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "DESKTOP-VD1N2JE.Online_Examination_System",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
